@@ -1,0 +1,13 @@
+Hey Folks 👋 
+<hr>
+I am Aayush Patel a compter science student at SPIT, Mumbai. Currently I am exploring this world of tech.
+
+👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+AayushPatel006/AayushPatel006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
